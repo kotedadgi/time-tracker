@@ -9,6 +9,7 @@
 <html>
 <head>
     <title>Super Simple Example Webpage</title>
+    <title>Welcome to Devops project</title>
 </head>
 <body>
   <h1>Super Simple Example Web Page</h1>
